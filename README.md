@@ -1,10 +1,10 @@
-# Web y panel para una federación deportiva nacional
+# FECODATLE · Federación Colombiana de Atletismo
 
-Sitio web y panel de gestión para que una federación deportiva nacional publique sus propios contenidos.
+Sitio web y panel de gestión para que la Federación Colombiana de Atletismo publique sus propios contenidos.
 
 **Caso de estudio** · Proyecto para cliente · En producción · Código privado
 
-<!-- TODO(captura): panel de gestión con contenido de ejemplo. Sin escudos, logos, nombres ni datos reales de la federación. -->
+<!-- TODO(captura): panel de gestión con contenido de ejemplo. Sin datos personales reales de atletas ni de usuarios. -->
 
 ## El problema
 
@@ -36,7 +36,7 @@ Next.js · TypeScript · PostgreSQL
 
 ## Código
 
-El código es privado: pertenece al cliente y no se publica por confidencialidad. Este repositorio solo documenta el proyecto.
+El código es privado: pertenece a la federación y no se publica por confidencialidad. Este repositorio solo documenta el proyecto.
 
 ---
 
